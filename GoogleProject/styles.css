@@ -94,8 +94,9 @@ input[type=submit]:hover {
     margin: 10px;
     padding-left: 15px;
     padding-right: 15px;
+    
 }
-.search-field > svg, button{
+.search-field > svg, button, img{
     padding: 8px;
     border: none;
     background-color: white;
@@ -114,7 +115,7 @@ input[type=submit]:hover {
 
 
 input[type="text"]{
-    width: 450px;
+    width: 400px;
     padding: 13px 0;
     color: #464646;
     margin: 0 0 0 5px;
